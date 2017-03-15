@@ -1,4 +1,4 @@
-# uCarto.js
+# µCarto.js
 A place where experiment different architectures and features for carto.js
 
 ### Store
